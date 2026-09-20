@@ -1,2 +1,2 @@
 # PDF-Manipulator
-PDF Manipulator Desktiop Built in Python with Pymudf and Pyside6 
+PDF Manipulator Desktop Built in Python with Pymudf and Pyside6 

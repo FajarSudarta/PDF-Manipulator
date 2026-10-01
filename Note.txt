@@ -1,0 +1,37 @@
+Tugas Perubahan pada versi ini:
+
+Mengganti nama Object_file jadi Object_Order dan File_Loader (Done)
+Mengubah library dari pypdf ke pymupdf/fitz (Done)
+Memindahkan trigger pencet Informasi dokumen ke objek loader dari pada di objek order (Done)
+Menambahkan fitur untuk menambahkan import format lain ke Aplikasi,png,jpg. (Done)
+Menambahkan fitur specify more pada tiap Object_Order, misal rotate page,repetisi dll. (Selesai)
+Menambahkan informasi metadata ke document info. (Sudah)
+Menambahkan otomatisasi pada input nama objek pada ObjectOrder (selesai)
+  fitur enkripsi password pada hasil dokumen.(Selesai)
+  penambahan info metadata,(Selesai)
+Menambahkan fitur preview halaman urutan tiap ObjectOrder (Selesai)
+Menambahkan fitur penambahan watermark tiap ObjectOrder (Selesai)
+Menambahkan fitur split pdf menjadi beberapa bagian (Selesai)
+
+(Buat sekarang)
+Mempelajari ulang laur kode dan melakukan efisiensi sebelum dipajang di github
+
+Mengembangkan fitur tombol merging jadi finalisasi window (Setengah jadi)
+Menambahkan dan mengganti tombol merging dengan finalisasi window, dengan fitur: 
+  penambahan watermark text (Selesai)
+  Menambahkan fitur penambahan watermark tiap ObjectOrder (Selesai)
+  penambahan watermark images.(Sedang dikerjakan setengah jadi)
+Menambahkan fitur Progress bar 
+
+
+Menambahkan fitur extract elemen seperti teks,tabel,atau foto. 
+Menambahkan fitur Undo-Redo
+
+
+(Tunda)
+Menambahkan fitur estimasi size file (tunda dulu)
+Memindahkan proses merging,dll ke proses Qthread dari proses Mainloop Aplikasi Utama 
+Menambahkan sistem database (Sqlite) ke aplikasi, untuk menyimpan logging.
+
+
+
